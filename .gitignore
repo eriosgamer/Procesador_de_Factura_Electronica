@@ -58,3 +58,4 @@ FacturaElectronica.spec
 
 # Archivos de salida
 output/
+eml/
