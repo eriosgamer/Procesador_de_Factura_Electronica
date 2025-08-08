@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+FacturaElectronica.spec
+.env
+.venv
+*.log
+*.sqlite3
+*.db
+
+# VSCode
+.vscode/
+
+# Conda/virtualenv
+*.conda
+*.env
+*.venv
+
+# Windows
+*.bat~
+*.exe
+*.dll
+*.manifest
+*.app
+
+# Mac
+.DS_Store
+
+# Linux
+*.swp
+
+# Jupyter
+.ipynb_checkpoints
+
+# Otros
+*.bak
+*.tmp
+
+# Archivos de entorno
+.env*
+
+# Archivos de configuración local
+.settings/
+
+# Archivos de paquetes
+*.whl
+*.tar.gz
+
+# Archivos de prueba
+*.coverage
+
+# Archivos de salida
+output/

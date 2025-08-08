@@ -1,0 +1,11 @@
+.conda
+eml
+extraidos
+procesados
+.exclude
+__pycache__
+build.sh
+build.bat
+FacturaElectronica.spec
+build
+dist
